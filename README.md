@@ -1,2 +1,2 @@
 # esri2oracle
-Inserting segment data into oracle using ogr2ogr (batch script)
+Inserting segment shapefile data into oracle using ogr2ogr (batch script)
